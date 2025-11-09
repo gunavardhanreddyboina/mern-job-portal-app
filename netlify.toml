@@ -1,0 +1,8 @@
+build
+base = "client"
+command = "npm run build"
+publish = "build"
+
+Netlify 
+#[build.environment]
+#REACT_APP_API_BASE = "https://mern-job-portal-app-yjis.onrender.com"
